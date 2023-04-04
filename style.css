@@ -7,11 +7,7 @@
 }
 
 body{
-    background: url(/imagens/imagem-background03.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-color: yellow;
 }
 h1{
     font-size: 4rem;
@@ -20,18 +16,3 @@ h1{
     
 }
 
-div{
-    height: 300px;
-    width: 300px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: blue;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    padding: 30px;
-    
-}
