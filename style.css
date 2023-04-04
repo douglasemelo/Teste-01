@@ -7,8 +7,11 @@
 }
 
 body{
-    background-color: black;
-    
+    background: url(/imagens/imagem-background03.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 h1{
     font-size: 4rem;
